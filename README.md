@@ -103,7 +103,7 @@ This repository provides a detailed exploration of essential networking concepts
 3. Enable trunking for inter-VLAN communication using a router.
 
 **Figure Reference:** The diagram shows multiple VLANs (e.g., IT, HR, Finance) configured across switches.
-
+<img width="890" alt="image" src="https://github.com/user-attachments/assets/e1f4e10c-f480-447b-a06e-ebd7833bb9ea" />
 ---
 
 ### Section 7: Subnetting
