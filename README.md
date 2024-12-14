@@ -134,6 +134,12 @@ This repository provides a detailed exploration of essential networking concepts
 2. Use dynamic routing protocols (e.g., RIP, OSPF).
 3. Test connectivity between different networks.
 
+
+**Figure Reference:** The diagram illustrates Dynamic Routing using RIP protocol in cisco packet tracer.
+
+<img width="667" alt="image" src="https://github.com/user-attachments/assets/6bc72657-4fa4-4fc5-a4bb-4b21746c5253" />
+
+
 ---
 
 ### Section 9: Image Transfer using Socket Programming
