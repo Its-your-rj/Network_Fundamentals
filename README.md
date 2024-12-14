@@ -89,6 +89,7 @@ This repository provides a detailed exploration of essential networking concepts
 4. Log in to the IoT portal from a client (laptop) and control devices.
 
 **Figure Reference:** The configuration demonstrates IoT devices connected via a wireless router and controlled using a web portal.
+
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/9751f0fa-bba5-4955-999e-afbd5a05d098" />
 
 ---
@@ -103,7 +104,9 @@ This repository provides a detailed exploration of essential networking concepts
 3. Enable trunking for inter-VLAN communication using a router.
 
 **Figure Reference:** The diagram shows multiple VLANs (e.g., IT, HR, Finance) configured across switches.
+
 <img width="890" alt="image" src="https://github.com/user-attachments/assets/e1f4e10c-f480-447b-a06e-ebd7833bb9ea" />
+
 ---
 
 ### Section 7: Subnetting
