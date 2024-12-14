@@ -120,6 +120,9 @@ This repository provides a detailed exploration of essential networking concepts
 
 **Figure Reference:** The diagram illustrates subnet configurations for three networks with respective IP ranges.
 
+
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/9fda9d32-2675-4349-bd04-58d91236b23f" />
+
 ---
 
 ### Section 8: Dynamic Routing
