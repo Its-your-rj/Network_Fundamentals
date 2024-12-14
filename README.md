@@ -62,7 +62,7 @@ This repository provides a detailed exploration of essential networking concepts
 - **Server:** Listens for client requests and responds to them.
 - **Client:** Sends requests and receives responses from the server.
 
-[Include code snippets in the repository.]
+
 
 ---
 
@@ -74,7 +74,6 @@ This repository provides a detailed exploration of essential networking concepts
 - Sender transmits one packet and waits for an acknowledgment.
 - Receiver sends an acknowledgment or requests retransmission in case of errors.
 
-[Include code snippets and comments in the repository.]
 
 ---
 
@@ -150,7 +149,7 @@ This repository provides a detailed exploration of essential networking concepts
 - The client sends an image file to the server.
 - The server receives and saves the file.
 
-[Include code snippets and comments in the repository.]
+
 
 ---
 
