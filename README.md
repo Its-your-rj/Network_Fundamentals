@@ -89,6 +89,7 @@ This repository provides a detailed exploration of essential networking concepts
 4. Log in to the IoT portal from a client (laptop) and control devices.
 
 **Figure Reference:** The configuration demonstrates IoT devices connected via a wireless router and controlled using a web portal.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/9751f0fa-bba5-4955-999e-afbd5a05d098" />
 
 ---
 
